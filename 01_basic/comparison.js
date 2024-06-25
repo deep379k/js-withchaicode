@@ -1,0 +1,16 @@
+console.log(null==0)
+console.log(null>=0)
+console.log(null<=0)
+
+
+console.log(0.2<=0)
+console.log(-3<=0)
+console.log(1==0)
+
+
+console.log(undefined<=0)
+console.log(undefined>=0)
+console.log(undefined==0)
+
+
+
